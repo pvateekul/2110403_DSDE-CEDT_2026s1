@@ -8,7 +8,7 @@
 
 ## Code:
 
-### Week01: Intro to Pandas
+### Class 1: Intro to Pandas
 
 1. Pandas: [![Open In Colab](https://github.com/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week01_Intro_Pandas/1_Pandas.ipynb)
 
@@ -18,7 +18,7 @@
 
 4. (Extra) Python - AI Coding Assistant: [![Open In Colab](https://github.com/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/AI_Coder/01_AI_Coding_Assistant_Gemini_Colab_Python_Template.ipynb)
 
-### Week02: Data Preparation
+### Class 2: Data Preparation
 
 1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week02_DataPrep/Lab2_ImputeMissingValue_Pipeline.ipynb)
 
@@ -30,11 +30,9 @@
 
 5. OneHotEncoder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week02_DataPrep/Lab1_LoansDataSet.ipynb)
 
-
-
-### Week03-04: Traditional ML
-#### Week03: Tree-based model, regression
-#### Week04: NN, kNN, GridSearch, Pipeline, Evaluation + Clustering
+### Class 3-5: Traditional ML
+#### Class 3-4: Tree-based model, regression
+#### Class 5: NN, kNN, GridSearch, Pipeline, Evaluation + Clustering
 
 1. Decision Trees with diabetes data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v4.ipynb)
 
@@ -56,7 +54,7 @@
 
 10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
 
-### Week 05: Intro to Deep Learning
+### Class 6: Intro to Deep Learning
 
 1. Image classification with CNN [`PyTorch Lightning`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN_(lightning).ipynb)
 
@@ -78,7 +76,7 @@
 
 6. Time series Forecasting: Stock Price [`PyTorch`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
 
-### Week06(1): Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG)
+### Class 7(1): Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG)
 
 1. Basic API Call with LangChain [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/1_LLM_Basic_API_Call_LangChain.ipynb)
 
@@ -95,7 +93,7 @@
 <!-- 
 7. Creating a Simple ReAct Agent using LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/7_7_LLM_Create_a_ReAct_Agent.ipynb) -->
 
-### Week06(2): Text Classification
+### Class 7(2): Text Classification
 
 1. Text Classification (TF-IDF) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week05_AdvancedML/5_2_tfidf_for_Sentiment_Analysis.ipynb)
 
@@ -105,7 +103,7 @@
 
 4. Multi-label Text Classification (microsoft/deberta-v3-small) [`PyTorch`] Training duration ~10mins: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week05_AdvancedML/5_5_Multi_label_Text_Classification.ipynb)
 
-### Week06(3): Typhoon LLM 
+### Class 7(3): Typhoon LLM 
 
 1. Typhoon Text Model [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/7_Typhoon_Text_Inference.ipynb)
 
