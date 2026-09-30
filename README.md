@@ -4,7 +4,7 @@
 
 ## Syllabus:
 
-[Syllabus](slide/Syllabus_2110403_DSDE-CEDT_2026s1.pdf)
+[Syllabus](slide/Syllabus_2110403_DSDE_2026s1.pdf)
 
 ## Code:
 
