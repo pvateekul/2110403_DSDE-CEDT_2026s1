@@ -7,7 +7,6 @@
 [Syllabus](slide/2110403_DSDE-CEDT_Syllabus_2026s1_v1.pdf)
 
 ## Code:
-[text](../../../../../../Downloads/2110403_DSDE-CEDT_Syllabus_2026s1_v1.pdf)
 ### Class 1: Intro to Pandas
 
 1. Pandas: [![Open In Colab](https://github.com/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week01_Intro_Pandas/1_Pandas.ipynb)
