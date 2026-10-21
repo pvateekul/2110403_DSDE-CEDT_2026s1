@@ -41,7 +41,7 @@
 
 5-1. K Nearest Neighbors (GridSearchCV): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week03_ML/5_K_Nearest_Neighbors_v3.ipynb)
 
-5-2. K Nearest Neighbors (Optuna): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/10_Optuna_Tutorial_PartB_KNeighborsClassifier.ipynb)
+5-2. K Nearest Neighbors (Optuna): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week03_ML/10_Optuna_Tutorial_PartB_KNeighborsClassifier.ipynb)
 
 6. SVM: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week03_ML/6_Support_Vector_Machine_v3.ipynb)
 
