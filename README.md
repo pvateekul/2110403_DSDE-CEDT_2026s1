@@ -77,7 +77,7 @@
 
 ### Class 7(2): Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG)
 
-1. Basic API Call with LangChain [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/1_LLM_Basic_API_Call_LangChain.ipynb) 
+1. Basic API Call with LangChain [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/1_LLM_Basic_API_Call_LangChain.ipynb) (api providers)
 
 2. Basic Prompt Engineering [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/2_LLM_Prompt_Engineering_Basic_LangChain.ipynb) (system / user prompt , structured input/output, boundary condition, temperature, reasoining effort)
 
