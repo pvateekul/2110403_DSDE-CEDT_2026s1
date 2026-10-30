@@ -83,7 +83,7 @@
 
 3. Advanced Prompt Engineering [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/3_LLM_Prompt_Engineering_Advanced_LangChain.ipynb) (zero / few shot, chain-of-thought , analogy-based, llm-as-judge, iterative refinement)
 
-4. LangChain Playground and Tracking with LangSmith [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/4_LLM_LangChain_Playground_Tracking_with_LangSmith_Groq.ipynb) (langsmith tracing, langchain pipe, tool binding)
+4. LangChain Playground and Tracking with LangSmith [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/4_LLM_LangChain_Playground_Tracking_with_LangSmith_Groq.ipynb) (langsmith tracking, langchain pipe, tool binding)
 
 5. Basic LangGraph [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2026s1/blob/main/code/Week06_GenerativeAI/5_LLM_Basic_LangGraph.ipynb) (node, edge, state, conditional edge, loop, checkpointing)
 
