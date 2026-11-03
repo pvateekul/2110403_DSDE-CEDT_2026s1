@@ -1,0 +1,14 @@
+[project]
+name = "ride-hailing"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pyducklake[pandas]>=1.0.18",
+    "pytz>=2026.5",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.4",
+]
