@@ -1,0 +1,15 @@
+[project]
+name = "ruam-bike-lakehouse"
+version = "0.1.0"
+description = "Ruam Bike: a two-layer lakehouse with pyducklake"
+requires-python = ">=3.14"
+dependencies = [
+    "pyducklake==1.0.18",
+    "duckdb==1.5.5",
+    "pyarrow==25.0.1",
+    "pandas==3.0.6",
+    "pytz==2026.5",
+]
+
+[tool.uv]
+package = false
